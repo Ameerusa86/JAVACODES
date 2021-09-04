@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RecipeManager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/RecipeManager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
